@@ -5,5 +5,7 @@ public class HelloWorld {
 
 
         System.out.println(" fast and IBISHI." );
+        System.out.println(" fast and Arlind." );
+        System.out.println(" Diki");
     }
 }
