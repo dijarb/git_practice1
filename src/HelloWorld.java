@@ -4,6 +4,6 @@ public class HelloWorld {
         System.out.println('b');
 
 
-        System.out.println(" fast and ERDUAN." );
+        System.out.println(" fast and DIJAR." );
     }
 }
